@@ -10,19 +10,19 @@ Scraping code using Serpapi API. Get JSON files scraping google searches.
 </p>
 
 <p align="center">
-  <img alt="link menu" src="Scraping/print.png" width="100%">
+  <img alt="link menu" src="./print.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - Python
 - Serpapi API
 - Tkinter
 - Git e Github
 
-## 💻 Projeto
+## 💻 Project
 
 Scraping websites using Serpapi API. 
 Easy integration to other Serpapi APIs like Google Maps, Google News, etc..
