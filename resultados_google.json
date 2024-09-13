@@ -1,0 +1,591 @@
+{
+    "search_metadata": {
+        "id": "66e476ddd771bddade2343b7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7f6309729c37dea3/66e476ddd771bddade2343b7.json",
+        "created_at": "2024-09-13 17:31:09 UTC",
+        "processed_at": "2024-09-13 17:31:09 UTC",
+        "google_url": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&oq=Cruzeiro+Esporte+Clube&uule=w+CAIQICIGQnJhemls&hl=pt&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7f6309729c37dea3/66e476ddd771bddade2343b7.html",
+        "total_time_taken": 1.81
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Cruzeiro Esporte Clube",
+        "location_requested": "Brazil",
+        "location_used": "Brazil",
+        "google_domain": "google.com.br",
+        "hl": "pt",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "Cruzeiro Esporte Clube",
+        "total_results": 33600000,
+        "time_taken_displayed": 0.45,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "sports_results": {
+        "title": "Cruzeiro Esporte Clube",
+        "rankings": "5º lugar Brasileirão Série A",
+        "thumbnail": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/657aa243c448cd87110b88379ad252d3a12dc5a659fccf9c18668c437413e109.png"
+    },
+    "knowledge_graph": {
+        "title": "Cruzeiro Esporte Clube",
+        "type": "5º lugar Brasileirão Série A",
+        "entity_type": "sports_team",
+        "main_tab_text": "Visão geral",
+        "kgmid": "/m/019m60",
+        "knowledge_graph_search_link": "https://www.google.com.br/search?kgmid=/m/019m60&hl=pt-BR&q=Cruzeiro+Esporte+Clube&shndl=0&shem=vslcea&source=sh/x/kp/osrp/m5/1",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt-BR&kgmid=%2Fm%2F019m60&location=Brazil&q=Cruzeiro+Esporte+Clube",
+        "tabs": [
+            {
+                "text": "Partidas",
+                "si": "ACC90nxHVIQmruDWnwTL6DMm0w-fRIRhUxoHPNsJnEnV8zCuM5KLSWnMImIlpppFk_AeipYNPv1FwwzpZBUBlVSSfdvbonUvznept0lvJfSshjU2m85FZvNhYYWz3dx8wDv5Gwv566dzjLlYPXYup3sib3lzwZXadaumo4zddyME6ANnYK65mNv_IzM6lUsqgIZr0j4wuV6U5OST-aJmbOWftgraxmzjqpEMah-PbngV0c9Y19JZeVo=",
+                "link": "https://www.google.com.br/search?si=ACC90nxHVIQmruDWnwTL6DMm0w-fRIRhUxoHPNsJnEnV8zCuM5KLSWnMImIlpppFk_AeipYNPv1FwwzpZBUBlVSSfdvbonUvznept0lvJfSshjU2m85FZvNhYYWz3dx8wDv5Gwv566dzjLlYPXYup3sib3lzwZXadaumo4zddyME6ANnYK65mNv_IzM6lUsqgIZr0j4wuV6U5OST-aJmbOWftgraxmzjqpEMah-PbngV0c9Y19JZeVo=",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&si=ACC90nxHVIQmruDWnwTL6DMm0w-fRIRhUxoHPNsJnEnV8zCuM5KLSWnMImIlpppFk_AeipYNPv1FwwzpZBUBlVSSfdvbonUvznept0lvJfSshjU2m85FZvNhYYWz3dx8wDv5Gwv566dzjLlYPXYup3sib3lzwZXadaumo4zddyME6ANnYK65mNv_IzM6lUsqgIZr0j4wuV6U5OST-aJmbOWftgraxmzjqpEMah-PbngV0c9Y19JZeVo%3D"
+            },
+            {
+                "text": "Classificação",
+                "si": "ACC90nyax7V25SzASMUEK2PdykXUPwrfOR2-jwmZSRLnuSkHHSQ6Z-9J4947qVAreUPT1RCRQhCOSOUh8QtwnNXV_Sgx3Q_r2v2Vmxy3QJkXImDXNrPLheENWA5-UVwS1ZM7wndPWHAbNtD2Nq_TGxwPoRR53eDB6szP178qMHR6xKB4hg8vc12d58dXXjMCikcYoTgDmhrNuENxGM25xjIAJGvMcjeN2sVEmw9bPzo2fUOC1nRD9qNCXNYIqYkBAHLjJ154y_6hYGn6zLwIaM628F90Lt_nwQ==",
+                "link": "https://www.google.com.br/search?si=ACC90nyax7V25SzASMUEK2PdykXUPwrfOR2-jwmZSRLnuSkHHSQ6Z-9J4947qVAreUPT1RCRQhCOSOUh8QtwnNXV_Sgx3Q_r2v2Vmxy3QJkXImDXNrPLheENWA5-UVwS1ZM7wndPWHAbNtD2Nq_TGxwPoRR53eDB6szP178qMHR6xKB4hg8vc12d58dXXjMCikcYoTgDmhrNuENxGM25xjIAJGvMcjeN2sVEmw9bPzo2fUOC1nRD9qNCXNYIqYkBAHLjJ154y_6hYGn6zLwIaM628F90Lt_nwQ==",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&si=ACC90nyax7V25SzASMUEK2PdykXUPwrfOR2-jwmZSRLnuSkHHSQ6Z-9J4947qVAreUPT1RCRQhCOSOUh8QtwnNXV_Sgx3Q_r2v2Vmxy3QJkXImDXNrPLheENWA5-UVwS1ZM7wndPWHAbNtD2Nq_TGxwPoRR53eDB6szP178qMHR6xKB4hg8vc12d58dXXjMCikcYoTgDmhrNuENxGM25xjIAJGvMcjeN2sVEmw9bPzo2fUOC1nRD9qNCXNYIqYkBAHLjJ154y_6hYGn6zLwIaM628F90Lt_nwQ%3D%3D"
+            },
+            {
+                "text": "Jogadores",
+                "si": "ACC90nyok0r2fdu_6qL464niuyhklHX5ZaD_EXfIewA4HkDrirLTkVVzYu4mPrWcC7G5zecXuwgiQ0zt-a6GOqnOsxNGXowfjAQJ5m9oZrzmf1HQQQAaZDFrPaaLcC8TFkbP7Efq0ZTL1-oCp8EJNjA0pwc4HgewyrR2CUXw2jurfIBR7R3PJYM5UN9toyTvP9es5O32-kRsTFQZXUzdxzzL7-ETDfdqHKo-FHhuehC5faJei7wwmVSxzQyFUKXh6l1YdEr14HYq",
+                "link": "https://www.google.com.br/search?si=ACC90nyok0r2fdu_6qL464niuyhklHX5ZaD_EXfIewA4HkDrirLTkVVzYu4mPrWcC7G5zecXuwgiQ0zt-a6GOqnOsxNGXowfjAQJ5m9oZrzmf1HQQQAaZDFrPaaLcC8TFkbP7Efq0ZTL1-oCp8EJNjA0pwc4HgewyrR2CUXw2jurfIBR7R3PJYM5UN9toyTvP9es5O32-kRsTFQZXUzdxzzL7-ETDfdqHKo-FHhuehC5faJei7wwmVSxzQyFUKXh6l1YdEr14HYq",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&si=ACC90nyok0r2fdu_6qL464niuyhklHX5ZaD_EXfIewA4HkDrirLTkVVzYu4mPrWcC7G5zecXuwgiQ0zt-a6GOqnOsxNGXowfjAQJ5m9oZrzmf1HQQQAaZDFrPaaLcC8TFkbP7Efq0ZTL1-oCp8EJNjA0pwc4HgewyrR2CUXw2jurfIBR7R3PJYM5UN9toyTvP9es5O32-kRsTFQZXUzdxzzL7-ETDfdqHKo-FHhuehC5faJei7wwmVSxzQyFUKXh6l1YdEr14HYq"
+            }
+        ],
+        "description": "O Cruzeiro Esporte Clube, mais conhecido como Cruzeiro, é uma associação polidesportiva brasileira sediada em Belo Horizonte, Minas Gerais. É considerado um dos maiores clubes de futebol do Brasil e da América do Sul.",
+        "source": {
+            "name": "Wikipédia",
+            "link": "https://pt.wikipedia.org/wiki/Cruzeiro_Esporte_Clube"
+        },
+        "técnico": "Fernando Seabra",
+        "técnico_links": [
+            {
+                "text": "Fernando Seabra",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Fernando+Seabra&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgKUWCjAKYrhPT-SPzS8Ha-lBbkL3BIMyySHUyzVwUFdPXOv9lkOLkL6eKZn50BTdJ6JGS_7RPgQFPTXVJbdliSntinVaOTYGrFx0MWI9HeXY_72H6FB4_jGtNJuLi9dt4jJyE426QTUXmH2YhNkMdB5RGR14-RKXwOkM9R95D7LLoQ_cJg%3D%3D&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAHoECBwQAg"
+            }
+        ],
+        "arena_estádio": "Mineirão",
+        "arena_estádio_links": [
+            {
+                "text": "Mineirão",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=est%C3%A1dio+mineir%C3%A3o&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L_Ia0oK9vO71G6B4KENKWqqD7G4IMjeJol0BQB3JDbj6Wm-yvGg8rGc0Ufpv8tC4IaoRxrN_QucrFavFgp9XAt26sjr9LM7zu91V28aT1_fn-T_LM7XgWu97Z_T23eggjpDRq26DlBKsFlHVtU5reVjEJaEU3JCYOKeKzovKsvbsQ1zmtA%3D%3D&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAHoECB0QAg"
+            }
+        ],
+        "fundação": "2 de janeiro de 1921, Belo Horizonte, Minas Gerais, Brasil",
+        "fundação_links": [
+            {
+                "text": "Belo Horizonte, Minas Gerais, Brasil",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Belo+Horizonte&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm17Kpv7639yHNmjuflHbw91iYfLp2kIq2okfvpVhmYDysxd4FUDzhgmgKGVeboEpD7VarA-VkPMJaYiyfjungU4cSSkZyLea4Z9q-46wABGGB5OZoJ7nM93tE2-1YpJlJo9j-INbfxyrumn5UkqKzM72irUz&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAHoECCEQAg"
+            }
+        ],
+        "proprietário": "Pedro Lourenço",
+        "proprietário_links": [
+            {
+                "text": "Pedro Lourenço",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=cruzeiro+esporte+clube+pedro+louren%C3%A7o&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgKRZ5pztN3tZh4Xwgn6wGAR09_CyFpecD0Gu_N_cymiXpVAbAUOqJVta25P5MPvm6ptgGLcw1kZTjFYtGXn8i1mZ3H8LmUvUQobYvKoGU3-4-H1bMEdYUcDgNJokIoc_9cSsmcznh0Luq3mRFuHeJWXlLFYT-mGca4zio_ogpNLheg0Lh_rJfIbHAtg_HD0EL_DkN2s%3D&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAHoECCMQAg"
+            }
+        ],
+        "campeonatos": "Brasileirão Série A, Copa do Brasil, Copa Sul-Americana, Campeonato Mineiro de Futebol",
+        "campeonatos_links": [
+            {
+                "text": "Brasileirão Série A",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Brasileir%C3%A3o+S%C3%A9rie+A&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LxcZnQLrNzSCHtvJIvPoOcSdhGjLS2Drv_WZt-O-YNln0Cr82_Zt4KBeZEnaKglZwqjCsJq6aY2Q2L3AK71KhlSiiUnQSwo1X6DzMMKbTgG-zw8kS9AKoGcHrKE0pZyGK_t_xXqjThSbunPI7BMJGiPX7iXMr2_PnSezsi2DeDnbB2zOzG_JVKAbdBlvWzVLakDrNAerKmtTcORSkauJriCbL7LevpfIu3i2LnWDZf9BFyCiWg%3D%3D&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAHoECCQQAg"
+            },
+            {
+                "text": "Copa do Brasil",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Copa+do+Brasil&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L13UiWSjrv22Jrd9SeUSlYVvgz70F66yQK1iq2clgQVdS6_wBByZx_AGsXeeuGeE3TX1J1QFECp7E-8jxxS9nqhZyvuWdWhqx84GDa_LtdCxzmpsoejj-68FD_JsZ1aa0_YF6jcV1hrEsph3hKV22upqLXhZyXa3h1FPMj7MouNjDAPuW8g0e1T9W6TkTq7_z1ZNGiNQ-VF-o6dwVXu-T6wsgKBGtha-gM2gi7ZoLYPAkyi6rQ%3D%3D&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAXoECCQQAw"
+            },
+            {
+                "text": "Copa Sul-Americana",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Copa+Sul-Americana&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LyaAcQh8WbCVB0wOQqiF9XfZAJQOOLHr2j94c9GwDSEzhK5iXVacq6yIR9SWbmpaak1Awo6iwiVBjvrp1jAjDrCMwfVbGgqXXBet2Jg7cbn36QpS5LcmRtqEAg4DMJvnH71_lRk2RP45HcRJvhOavDye2a6or_fcpK7jeIRMTA9p8_oIj-hK3bT6U9c3KinMhG5qrb7bpTeGsxCU-DCJAi9upJxsf46lRmukyDvRj-NHF6nKHw%3D%3D&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAnoECCQQBA"
+            },
+            {
+                "text": "Campeonato Mineiro de Futebol",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Campeonato+Mineiro&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LzwnS4lV7HIgh-sh5sXUiL3A2p0YX2QNE8Ts5eotOeDTVBOMeXL8vuFVXxyVuMVFxnoTU0bxcJa5ohll3lmmip37u_9bxIxtVcwmXN7FYfC7stWtXNdvrlpm_Wfmr7tt7kCggMMdAtjPNuYcmlNLXuWO8FVixA0pYeR4xpDatC3P_aKMdS_SUQ-VZcUWx7rBb1sxDgGkWmNNxOPno86O7yCQn-QrzsslDbkg-2Umk8Ab205Lrw%3D%3D&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoA3oECCQQBQ"
+            }
+        ],
+        "localização": "Belo Horizonte, Minas Gerais, Brasil",
+        "localização_links": [
+            {
+                "text": "Belo Horizonte, Minas Gerais, Brasil",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Belo+Horizonte&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm17Kpv7639yHNmjuflHbw91iYfLp2kIq2okfvpVhmYDysxd4FUDzhgmgKGVeboEpD7VarA-VkPMJaYiyfjungU4cSSkZyLea4Z9q-46wABGGB5OZoJ7nM93tE2-1YpJlJo9j-INbfxyrumn5UkqKzM72irUz&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAHoECCIQAg"
+            }
+        ],
+        "alcunhas": "Cabuloso; Zeiro; Raposa; Cruzeirão Cabuloso; Rei de Copas; La Bestia Negra; Palestra; O Time do Povo; Nação Azul",
+        "alcunhas_links": [
+            {
+                "text": "Raposa",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Raposa&stick=H4sIAAAAAAAAAONgVuLVT9c3NEyyMDJJyjY2XcTKFpRYkF-cCAAp8LncGgAAAA&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAHoECB4QAg"
+            },
+            {
+                "text": "La Bestia Negra",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=La+Bestia+Negra&stick=H4sIAAAAAAAAAONgVuLVT9c3NEyyMDJJyjY2XcTK75Oo4JRaXJKZqOCXml6UCADNxN6wIwAAAA&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAXoECB4QAw"
+            },
+            {
+                "text": "Palestra",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Palestra&stick=H4sIAAAAAAAAAONgVuLUz9U3MLTMKU9axMoRkJiTWlxSlAgAZxuPXBgAAAA&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoAnoECB4QBA"
+            },
+            {
+                "text": "O Time do Povo",
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=O+Time+do+Povo&stick=H4sIAAAAAAAAAONgVuLUz9U3MLTMKalcxMrnrxCSmZuqkJKvEJBflg8AN6kvqh4AAAA&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QmxMoA3oECB4QBQ"
+            }
+        ],
+        "web_results": [
+            {
+                "title": "Cruzeiro renova com lateral campeão ao lado de Endrick na seleção brasileira sub-17",
+                "source": "ge",
+                "source_image": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/33dfb83416b461c68f08fab8b231b321bf5a102f60392a436d4d1d85cbbc5f7d35e131c076dd63763b289bb196809f8c.png",
+                "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2024/09/13/cruzeiro-renova-com-lateral-campeao-ao-lado-de-endrick-na-selecao-brasileira-sub-17.ghtml",
+                "date": "há 3 horas"
+            }
+        ],
+        "jogadores": [
+            {
+                "name": "Matheus Pereira (Meia)",
+                "extensions": [
+                    "Meia"
+                ],
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Matheus+Pereira&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMNTNQ4gIx49NySjKytXSyk630iwvyi0qKoVR8SWpirlVRfnFJalF8SUZpblJeYmZOfE5mcckiVn7fxJKM1NJihYDUotTMosQdrIwAmfbHRFwAAAA&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QxA16BAggEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Matheus+Pereira&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMNTNQ4gIx49NySjKytXSyk630iwvyi0qKoVR8SWpirlVRfnFJalF8SUZpblJeYmZOfE5mcckiVn7fxJKM1NJihYDUotTMosQdrIwAmfbHRFwAAAA",
+                "image": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/33dfb83416b461c68f08fab8b231b321dc08a4d95a4cbb657887993c44b6a884914d1ea468e38dd8.jpeg"
+            },
+            {
+                "name": "Cássio Ramos (Goleiro)",
+                "extensions": [
+                    "Goleiro"
+                ],
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=C%C3%A1ssio&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMNTNQ4gIxjcxKykpKtHSyk630iwvyi0qKoVR8SWpirlVRfnFJalF8SUZpblJeYmZOfE5mcckiVnbnwwuLizPzd7AyAgADpg5dVAAAAA&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QxA16BAggEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=C%C3%A1ssio&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMNTNQ4gIxjcxKykpKtHSyk630iwvyi0qKoVR8SWpirlVRfnFJalF8SUZpblJeYmZOfE5mcckiVnbnwwuLizPzd7AyAgADpg5dVAAAAA",
+                "image": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/33dfb83416b461c68f08fab8b231b321dc08a4d95a4cbb658c03afb48f40a310abc908e905b0fdbe.jpeg"
+            },
+            {
+                "name": "William de Asevedo Furtado (Zagueiro)",
+                "extensions": [
+                    "Zagueiro"
+                ],
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=William+de+Asevedo+Furtado&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMNTNQ4tVP1zc0TCpPyTUtKK_U0slOttIvLsgvKimGUvElqYm5VkX5xSWpRfElGaW5SXmJmTnxOZnFJYtYpcIzc3IyE3MVUlIVHItTy1JT8hXcSotKElPyd7AyAgB8YUxvagAAAA&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QxA16BAggEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=William+de+Asevedo+Furtado&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMNTNQ4tVP1zc0TCpPyTUtKK_U0slOttIvLsgvKimGUvElqYm5VkX5xSWpRfElGaW5SXmJmTnxOZnFJYtYpcIzc3IyE3MVUlIVHItTy1JT8hXcSotKElPyd7AyAgB8YUxvagAAAA",
+                "image": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/33dfb83416b461c68f08fab8b231b321dc08a4d95a4cbb65b6877d536d6946b07f6aacb30e3f2e22.jpeg"
+            },
+            {
+                "name": "Lautaro Díaz (Atacante)",
+                "extensions": [
+                    "Atacante"
+                ],
+                "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Lautaro+D%C3%ADaz&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMNTNQ4tVP1zc0zDBMKTSuSsrQ0slOttIvLsgvKimGUvElqYm5VkX5xSWpRfElGaW5SXmJmTnxOZnFJYtYeX0SS0sSi_IVXA6vTazawcoIAHW8WSddAAAA&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QxA16BAggEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Lautaro+D%C3%ADaz&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMNTNQ4tVP1zc0zDBMKTSuSsrQ0slOttIvLsgvKimGUvElqYm5VkX5xSWpRfElGaW5SXmJmTnxOZnFJYtYeX0SS0sSi_IVXA6vTazawcoIAHW8WSddAAAA",
+                "image": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/33dfb83416b461c68f08fab8b231b321dc08a4d95a4cbb65a82cf0adbedc745cf82fd6f2b77ee3d0.jpeg"
+            }
+        ],
+        "perfis": [
+            {
+                "name": "Instagram",
+                "link": "https://www.instagram.com/cruzeiro",
+                "image": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/33dfb83416b461c68f08fab8b231b3214a960d77e119b5d43b7b1a9a34d795c4.png"
+            },
+            {
+                "name": "Facebook",
+                "link": "https://www.facebook.com/cruzeirooficial",
+                "image": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/33dfb83416b461c68f08fab8b231b32103226c377dd08b6f5cd9cea7b736cc0a.png"
+            },
+            {
+                "name": "YouTube",
+                "link": "https://www.youtube.com/channel/UCqifkpdmE1z3VhfQoJzwpJQ",
+                "image": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/33dfb83416b461c68f08fab8b231b3212b0f0e7cf1f5c54ff4a3a389ef117ccc.png"
+            },
+            {
+                "name": "X (Twitter)",
+                "link": "https://twitter.com/Cruzeiro",
+                "image": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/33dfb83416b461c68f08fab8b231b321323e5f123d4d475d7bda91856e5dd0e3.png"
+            },
+            {
+                "name": "TikTok",
+                "link": "https://www.tiktok.com/@cruzeiro",
+                "image": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/33dfb83416b461c68f08fab8b231b321d051d3a2726b5f71a8b7849a2db617c3.png"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "⚽ DIA NA TOCA | Time segue a preparação para o jogo ...",
+            "link": "https://www.youtube.com/watch?v=VjA7KWdRBjk",
+            "thumbnail": "https://i.ytimg.com/vi/VjA7KWdRBjk/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nRmpzgmxFBoJYIjm4y20PtlQP1uQ",
+            "channel": "Cruzeiro Esporte Clube",
+            "duration": "3:08",
+            "date": "1 dia atrás"
+        },
+        {
+            "position": 2,
+            "title": "GLOBO ESPORTE CRUZEIRO GANHA REFORÇOS NA ...",
+            "link": "https://www.youtube.com/watch?v=n2SQlk7zkfM",
+            "thumbnail": "https://i.ytimg.com/vi/n2SQlk7zkfM/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mWqmdS_ZRWn-1HuTl77V0EHK7vwA",
+            "channel": "Turma do Cruzeiro TV",
+            "duration": "7:29",
+            "date": "2 dias atrás"
+        },
+        {
+            "position": 3,
+            "title": "⚽ É GOOOOOOL DO CRUZEIRO! Kaíque Kenji, bem ...",
+            "link": "https://m.facebook.com/cruzeirooficial/videos/-%C3%A9-gooooool-do-cruzeiro-ka%C3%ADque-kenji-bem-posicionado-na-%C3%A1rea-abre-o-placar-pros-/8659208747444731/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0gH_oTzHeHA04TySbikcPGvKwqE2lcAkfa9L7n_Gx6wZ&s",
+            "channel": "Cruzeiro Esporte Clube",
+            "duration": "0:25",
+            "date": "há 21 horas"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Quantos mundiais o Cruzeiro tem?",
+            "snippet": "Desde então, essa parceria floresceu, e a equipe de vôlei do Cabuloso tornou-se a maior do Brasil e uma das maiores do mundo. O Sada Cruzeiro conquistou quatro títulos mundiais, ficando a apenas um título de igualar o recorde do Trentino, que foi campeão cinco vezes.",
+            "title": "Títulos do Cruzeiro Esporte Clube – Wikipédia, a enciclopédia livre",
+            "link": "https://pt.wikipedia.org/wiki/T%C3%ADtulos_do_Cruzeiro_Esporte_Clube#:~:text=Desde%20ent%C3%A3o%2C%20essa%20parceria%20floresceu,que%20foi%20campe%C3%A3o%20cinco%20vezes.",
+            "displayed_link": "https://pt.wikipedia.org › wiki › Títulos_do_Cruzeiro_Es...",
+            "source_logo": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/381917b90d36d50c5b4e67bc64bdd3df2f3c1b3bffe57cd2925c3127db9e61a9.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JtVlJRWEJ6T1ROM01EZERibUpUU0VOTmNXSjBiWGhzY1hOWGMwVnJkVlp3ZFZGRlYxRmpNalJTYmpSR09UVmpiMVJmU0RCYVlWcDBabmRsWkU1eVdYZEVWVWRMRWhjemJtSnJXbTkyVmtWUWFWZDNZbXRRZUU5NVJEaFJZeG9pUVVaWWNrVmpjRGQ2Wm5SbGJsZDZabFZ3VEZac1EyaFFNVEpXVFdORlFVMTFVUSIsImZjdiI6IjMiLCJlaSI6IjNuYmtab3ZWRVBpV3dia1B4T3lEOFFjIiwicWMiOiJDaFpqY25WNlpXbHlieUJsYzNCdmNuUmxJR05zZFdKbEVGSjlGc2duUHciLCJxdWVzdGlvbiI6IlF1YW50b3MgbXVuZGlhaXMgbyBDcnV6ZWlybyB0ZW0/IiwibGsiOiJHaDl4ZFdGdWRHOXpJRzExYm1ScFlXbHpJRzhnWTNKMWVtVnBjbThnZEdWdCIsImJzIjoiYzQzT093ckNRQlNGWVd4dlpSa0NtbXVqdGs2Uk5rVXNMRTFqZjVrWmNJckpUZVpoNFlKRWNSbnV3Qlg1UWcwb1luMC1EajhzQUt0SWRXQ1BOdGJLa1BISVdMcTQxY1l4Qm0yTFpKLUxVWnExbjB4MkdLeGdzbVRYUnQwZFRnZVVhN0trR0pWR1J3MTdLcElqaUdrNmJ2N1NjQ19VOWpaZUtWbmpDY1VNMWJ1eVNIYndLUHpLbnZjd2gySEpsbkZqdkFua2tEQ3dKRlQwQ2p0WElrc0g4aGZxOXk0IiwiaWQiOiJmY18zbmJrWm92VkVQaVd3YmtQeE95RDhRY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JtVlJRWEJ6T1ROM01EZERibUpUU0VOTmNXSjBiWGhzY1hOWGMwVnJkVlp3ZFZGRlYxRmpNalJTYmpSR09UVmpiMVJmU0RCYVlWcDBabmRsWkU1eVdYZEVWVWRMRWhjemJtSnJXbTkyVmtWUWFWZDNZbXRRZUU5NVJEaFJZeG9pUVVaWWNrVmpjRGQ2Wm5SbGJsZDZabFZ3VEZac1EyaFFNVEpXVFdORlFVMTFVUSIsImZjdiI6IjMiLCJlaSI6IjNuYmtab3ZWRVBpV3dia1B4T3lEOFFjIiwicWMiOiJDaFpqY25WNlpXbHlieUJsYzNCdmNuUmxJR05zZFdKbEVGSjlGc2duUHciLCJxdWVzdGlvbiI6IlF1YW50b3MgbXVuZGlhaXMgbyBDcnV6ZWlybyB0ZW0%2FIiwibGsiOiJHaDl4ZFdGdWRHOXpJRzExYm1ScFlXbHpJRzhnWTNKMWVtVnBjbThnZEdWdCIsImJzIjoiYzQzT093ckNRQlNGWVd4dlpSa0NtbXVqdGs2Uk5rVXNMRTFqZjVrWmNJckpUZVpoNFlKRWNSbnV3Qlg1UWcwb1luMC1EajhzQUt0SWRXQ1BOdGJLa1BISVdMcTQxY1l4Qm0yTFpKLUxVWnExbjB4MkdLeGdzbVRYUnQwZFRnZVVhN0trR0pWR1J3MTdLcElqaUdrNmJ2N1NjQ19VOWpaZUtWbmpDY1VNMWJ1eVNIYndLUHpLbnZjd2gySEpsbkZqdkFua2tEQ3dKRlQwQ2p0WElrc0g4aGZxOXk0IiwiaWQiOiJmY18zbmJrWm92VkVQaVd3YmtQeE95RDhRY18xIn0%3D"
+        },
+        {
+            "question": "Porque o cruzeiro é chamado de raposa?",
+            "snippet": "Mario Grosso, conhecido por sua sagacidade em contratações, inspirou a escolha da raposa como mascote do cruzeiro. Mario Grosso, conhecido por sua sagacidade em contratações, inspirou a escolha da raposa como mascote do cruzeiro.",
+            "title": "Por que o mascote do Cruzeiro é uma Raposa? - Na Beira do Campo",
+            "link": "https://cnbinfo.com.br/web-stories/por-que-o-mascote-do-cruzeiro-e-uma-raposa/#:~:text=Mario%20Grosso%2C%20conhecido%20por%20sua,raposa%20como%20mascote%20do%20cruzeiro.",
+            "displayed_link": "https://cnbinfo.com.br › web-stories › por-que-o-mascot...",
+            "source_logo": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/381917b90d36d50c5b4e67bc64bdd3df3dc95dc4d6a5ad5d4004ec7f65b3b66b.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JtVlJRWEJ6T1ROM01EZERibUpUU0VOTmNXSjBiWGhzY1hOWGMwVnJkVlp3ZFZGRlYxRmpNalJTYmpSR09UVmpiMVJmU0RCYVlWcDBabmRsWkU1eVdYZEVWVWRMRWhjemJtSnJXbTkyVmtWUWFWZDNZbXRRZUU5NVJEaFJZeG9pUVVaWWNrVmpjRGQ2Wm5SbGJsZDZabFZ3VEZac1EyaFFNVEpXVFdORlFVMTFVUSIsImZjdiI6IjMiLCJlaSI6IjNuYmtab3ZWRVBpV3dia1B4T3lEOFFjIiwicWMiOiJDaFpqY25WNlpXbHlieUJsYzNCdmNuUmxJR05zZFdKbEVGSjlGc2duUHciLCJxdWVzdGlvbiI6IlBvcnF1ZSBvIGNydXplaXJvIMOpIGNoYW1hZG8gZGUgcmFwb3NhPyIsImxrIjoiR2lad2IzSnhkV1VnYnlCamNuVjZaV2x5YnlERHFTQmphR0Z0WVdSdklHUmxJSEpoY0c5ellRIiwiYnMiOiJjNDNPT3dyQ1FCU0ZZV3h2WlJrQ21tdWp0azZSTmtVc0xFMWpmNWtaY0lySlRlWmg0WUpFY1JudXdCWDVRZzBvWW4wLURqOHNBS3RJZFdDUE50YktrUEhJV0xxNDFjWXhCbTJMWkotTFVacTFuMHgyR0t4Z3NtVFhSdDBkVGdlVWE3S2tHSlZHUncxN0twSWppR2s2YnY3U2NDX1U5alplS1ZuakNjVU0xYnV5U0hid0tQektudmN3aDJISmxuRmp2QW5ra0RDd0pGVDBDanRYSWtzSDhoZnE5eTQiLCJpZCI6ImZjXzNuYmtab3ZWRVBpV3dia1B4T3lEOFFjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JtVlJRWEJ6T1ROM01EZERibUpUU0VOTmNXSjBiWGhzY1hOWGMwVnJkVlp3ZFZGRlYxRmpNalJTYmpSR09UVmpiMVJmU0RCYVlWcDBabmRsWkU1eVdYZEVWVWRMRWhjemJtSnJXbTkyVmtWUWFWZDNZbXRRZUU5NVJEaFJZeG9pUVVaWWNrVmpjRGQ2Wm5SbGJsZDZabFZ3VEZac1EyaFFNVEpXVFdORlFVMTFVUSIsImZjdiI6IjMiLCJlaSI6IjNuYmtab3ZWRVBpV3dia1B4T3lEOFFjIiwicWMiOiJDaFpqY25WNlpXbHlieUJsYzNCdmNuUmxJR05zZFdKbEVGSjlGc2duUHciLCJxdWVzdGlvbiI6IlBvcnF1ZSBvIGNydXplaXJvIMOpIGNoYW1hZG8gZGUgcmFwb3NhPyIsImxrIjoiR2lad2IzSnhkV1VnYnlCamNuVjZaV2x5YnlERHFTQmphR0Z0WVdSdklHUmxJSEpoY0c5ellRIiwiYnMiOiJjNDNPT3dyQ1FCU0ZZV3h2WlJrQ21tdWp0azZSTmtVc0xFMWpmNWtaY0lySlRlWmg0WUpFY1JudXdCWDVRZzBvWW4wLURqOHNBS3RJZFdDUE50YktrUEhJV0xxNDFjWXhCbTJMWkotTFVacTFuMHgyR0t4Z3NtVFhSdDBkVGdlVWE3S2tHSlZHUncxN0twSWppR2s2YnY3U2NDX1U5alplS1ZuakNjVU0xYnV5U0hid0tQektudmN3aDJISmxuRmp2QW5ra0RDd0pGVDBDanRYSWtzSDhoZnE5eTQiLCJpZCI6ImZjXzNuYmtab3ZWRVBpV3dia1B4T3lEOFFjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Quem é o camisa 21 do Cruzeiro?",
+            "snippet": "Camisa Cruzeiro I 24/25 - Barreal nº 21 - Torcedor Adidas Masculina - Azul Royal. A Raposa está preparada para fazer história com a Camisa Cruzeiro I 24/25 - Barreal nº 21 - Torcedor Adidas Masculina!",
+            "title": "Adidas",
+            "link": "https://loja.cruzeiro.com.br/p/camisa-cruzeiro-i-2425-barreal-n-21-torcedor-adidas-masculina-azul+royal-FBA-1038-310#:~:text=Masculina%20%2D%20Azul%20Royal-,Camisa%20Cruzeiro%20I%2024%2F25%20%2D%20Barreal%20n%C2%BA%2021%20%2D,Torcedor%20Adidas%20Masculina%20%2D%20Azul%20Royal&text=A%20Raposa%20est%C3%A1%20preparada%20para,n%C2%BA%2021%20%2D%20Torcedor%20Adidas%20Masculina!",
+            "displayed_link": "https://loja.cruzeiro.com.br › camisa-cruzeiro-i-2425-bar...",
+            "source_logo": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/381917b90d36d50c5b4e67bc64bdd3df38dde6b67d291020824725a59c9d7c8a.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JtVlJRWEJ6T1ROM01EZERibUpUU0VOTmNXSjBiWGhzY1hOWGMwVnJkVlp3ZFZGRlYxRmpNalJTYmpSR09UVmpiMVJmU0RCYVlWcDBabmRsWkU1eVdYZEVWVWRMRWhjemJtSnJXbTkyVmtWUWFWZDNZbXRRZUU5NVJEaFJZeG9pUVVaWWNrVmpjRGQ2Wm5SbGJsZDZabFZ3VEZac1EyaFFNVEpXVFdORlFVMTFVUSIsImZjdiI6IjMiLCJlaSI6IjNuYmtab3ZWRVBpV3dia1B4T3lEOFFjIiwicWMiOiJDaFpqY25WNlpXbHlieUJsYzNCdmNuUmxJR05zZFdKbEVGSjlGc2duUHciLCJxdWVzdGlvbiI6IlF1ZW0gw6kgbyBjYW1pc2EgMjEgZG8gQ3J1emVpcm8/IiwibGsiOiJHaDl4ZFdWdElNT3BJRzhnWTJGdGFYTmhJREl4SUdSdklHTnlkWHBsYVhKdiIsImJzIjoiYzQzT093ckNRQlNGWVd4dlpSa0NtbXVqdGs2Uk5rVXNMRTFqZjVrWmNJckpUZVpoNFlKRWNSbnV3Qlg1UWcwb1luMC1EajhzQUt0SWRXQ1BOdGJLa1BISVdMcTQxY1l4Qm0yTFpKLUxVWnExbjB4MkdLeGdzbVRYUnQwZFRnZVVhN0trR0pWR1J3MTdLcElqaUdrNmJ2N1NjQ19VOWpaZUtWbmpDY1VNMWJ1eVNIYndLUHpLbnZjd2gySEpsbkZqdkFua2tEQ3dKRlQwQ2p0WElrc0g4aGZxOXk0IiwiaWQiOiJmY18zbmJrWm92VkVQaVd3YmtQeE95RDhRY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JtVlJRWEJ6T1ROM01EZERibUpUU0VOTmNXSjBiWGhzY1hOWGMwVnJkVlp3ZFZGRlYxRmpNalJTYmpSR09UVmpiMVJmU0RCYVlWcDBabmRsWkU1eVdYZEVWVWRMRWhjemJtSnJXbTkyVmtWUWFWZDNZbXRRZUU5NVJEaFJZeG9pUVVaWWNrVmpjRGQ2Wm5SbGJsZDZabFZ3VEZac1EyaFFNVEpXVFdORlFVMTFVUSIsImZjdiI6IjMiLCJlaSI6IjNuYmtab3ZWRVBpV3dia1B4T3lEOFFjIiwicWMiOiJDaFpqY25WNlpXbHlieUJsYzNCdmNuUmxJR05zZFdKbEVGSjlGc2duUHciLCJxdWVzdGlvbiI6IlF1ZW0gw6kgbyBjYW1pc2EgMjEgZG8gQ3J1emVpcm8%2FIiwibGsiOiJHaDl4ZFdWdElNT3BJRzhnWTJGdGFYTmhJREl4SUdSdklHTnlkWHBsYVhKdiIsImJzIjoiYzQzT093ckNRQlNGWVd4dlpSa0NtbXVqdGs2Uk5rVXNMRTFqZjVrWmNJckpUZVpoNFlKRWNSbnV3Qlg1UWcwb1luMC1EajhzQUt0SWRXQ1BOdGJLa1BISVdMcTQxY1l4Qm0yTFpKLUxVWnExbjB4MkdLeGdzbVRYUnQwZFRnZVVhN0trR0pWR1J3MTdLcElqaUdrNmJ2N1NjQ19VOWpaZUtWbmpDY1VNMWJ1eVNIYndLUHpLbnZjd2gySEpsbkZqdkFua2tEQ3dKRlQwQ2p0WElrc0g4aGZxOXk0IiwiaWQiOiJmY18zbmJrWm92VkVQaVd3YmtQeE95RDhRY18xIn0%3D"
+        },
+        {
+            "question": "Como visitar a toca da raposa?",
+            "snippet": "As visitas são agendadas pela Cruzeiro Esporte Tour e divulgadas no Site Oficial do Cruzeiro. A venda dos pacotes é realizada através do site da agência oficial do Clube.",
+            "title": "Toca da Raposa II - CruzeiroPédia .:. A História do Cruzeiro Esporte Clube",
+            "date": "17 de jun. de 2024",
+            "link": "https://cruzeiropedia.org/Toca_da_Raposa_II#:~:text=As%20visitas%20s%C3%A3o%20agendadas%20pela,da%20ag%C3%AAncia%20oficial%20do%20Clube.",
+            "displayed_link": "https://cruzeiropedia.org › Toca_da_Raposa_II",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8ceUFyB-8q5ZgizFvWjYSHLbv30oVck0jayVW4gh69nJz4Mqoo8mAuvlWA&s",
+            "source_logo": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/381917b90d36d50c5b4e67bc64bdd3df8de2697ddfb28739fde4bd115ecb4eef.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JtVlJRWEJ6T1ROM01EZERibUpUU0VOTmNXSjBiWGhzY1hOWGMwVnJkVlp3ZFZGRlYxRmpNalJTYmpSR09UVmpiMVJmU0RCYVlWcDBabmRsWkU1eVdYZEVWVWRMRWhjemJtSnJXbTkyVmtWUWFWZDNZbXRRZUU5NVJEaFJZeG9pUVVaWWNrVmpjRGQ2Wm5SbGJsZDZabFZ3VEZac1EyaFFNVEpXVFdORlFVMTFVUSIsImZjdiI6IjMiLCJlaSI6IjNuYmtab3ZWRVBpV3dia1B4T3lEOFFjIiwicWMiOiJDaFpqY25WNlpXbHlieUJsYzNCdmNuUmxJR05zZFdKbEVGSjlGc2duUHciLCJxdWVzdGlvbiI6IkNvbW8gdmlzaXRhciBhIHRvY2EgZGEgcmFwb3NhPyIsImxrIjoiR2gxamIyMXZJSFpwYzJsMFlYSWdZU0IwYjJOaElHUmhJSEpoY0c5ellRIiwiYnMiOiJjNDNPT3dyQ1FCU0ZZV3h2WlJrQ21tdWp0azZSTmtVc0xFMWpmNWtaY0lySlRlWmg0WUpFY1JudXdCWDVRZzBvWW4wLURqOHNBS3RJZFdDUE50YktrUEhJV0xxNDFjWXhCbTJMWkotTFVacTFuMHgyR0t4Z3NtVFhSdDBkVGdlVWE3S2tHSlZHUncxN0twSWppR2s2YnY3U2NDX1U5alplS1ZuakNjVU0xYnV5U0hid0tQektudmN3aDJISmxuRmp2QW5ra0RDd0pGVDBDanRYSWtzSDhoZnE5eTQiLCJpZCI6ImZjXzNuYmtab3ZWRVBpV3dia1B4T3lEOFFjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JtVlJRWEJ6T1ROM01EZERibUpUU0VOTmNXSjBiWGhzY1hOWGMwVnJkVlp3ZFZGRlYxRmpNalJTYmpSR09UVmpiMVJmU0RCYVlWcDBabmRsWkU1eVdYZEVWVWRMRWhjemJtSnJXbTkyVmtWUWFWZDNZbXRRZUU5NVJEaFJZeG9pUVVaWWNrVmpjRGQ2Wm5SbGJsZDZabFZ3VEZac1EyaFFNVEpXVFdORlFVMTFVUSIsImZjdiI6IjMiLCJlaSI6IjNuYmtab3ZWRVBpV3dia1B4T3lEOFFjIiwicWMiOiJDaFpqY25WNlpXbHlieUJsYzNCdmNuUmxJR05zZFdKbEVGSjlGc2duUHciLCJxdWVzdGlvbiI6IkNvbW8gdmlzaXRhciBhIHRvY2EgZGEgcmFwb3NhPyIsImxrIjoiR2gxamIyMXZJSFpwYzJsMFlYSWdZU0IwYjJOaElHUmhJSEpoY0c5ellRIiwiYnMiOiJjNDNPT3dyQ1FCU0ZZV3h2WlJrQ21tdWp0azZSTmtVc0xFMWpmNWtaY0lySlRlWmg0WUpFY1JudXdCWDVRZzBvWW4wLURqOHNBS3RJZFdDUE50YktrUEhJV0xxNDFjWXhCbTJMWkotTFVacTFuMHgyR0t4Z3NtVFhSdDBkVGdlVWE3S2tHSlZHUncxN0twSWppR2s2YnY3U2NDX1U5alplS1ZuakNjVU0xYnV5U0hid0tQektudmN3aDJISmxuRmp2QW5ra0RDd0pGVDBDanRYSWtzSDhoZnE5eTQiLCJpZCI6ImZjXzNuYmtab3ZWRVBpV3dia1B4T3lEOFFjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Cruzeiro | Últimas notícias, resultados e próximos jogos",
+            "link": "https://ge.globo.com/futebol/times/cruzeiro/",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://ge.globo.com/futebol/times/cruzeiro/&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QFnoECD0QAQ",
+            "displayed_link": "https://ge.globo.com › futebol › times › cruzeiro",
+            "favicon": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/b8195c5de1f3b5fd66e7e025b00f64daed64068799b06149453e9854c33f4584.png",
+            "snippet": "Cruzeiro vence o Fortaleza e está na final do Brasileiro sub-20. 2 min. Cruzeiro 3 x 0 Fortaleza | Gols | Semifinal | Campeonato Brasileiro de Futebol Sub-20.",
+            "snippet_highlighted_words": [
+                "Cruzeiro",
+                "Cruzeiro"
+            ],
+            "source": "ge"
+        },
+        {
+            "position": 2,
+            "title": "Cruzeiro Esporte Clube: Home",
+            "link": "https://www.cruzeiro.com.br/",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cruzeiro.com.br/&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QFnoECF0QAQ",
+            "displayed_link": "https://www.cruzeiro.com.br",
+            "favicon": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/b8195c5de1f3b5fd66e7e025b00f64da3f805f7f37092ab89a12e65edb72942d.png",
+            "snippet": "Site oficial do Cruzeiro. Acompanhe todas as notícias do time, encontre produtos oficiais, confira o calendário de jogos e garanta os seus ingressos.",
+            "snippet_highlighted_words": [
+                "Cruzeiro"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Loja do Cruzeiro",
+                        "link": "https://loja.cruzeiro.com.br/"
+                    },
+                    {
+                        "title": "Mais Notícias",
+                        "link": "https://www.cruzeiro.com.br/noticias/cruzeiro-esporte-clube-saf-apresenta-demonstrativos-financeiros-de-2023"
+                    },
+                    {
+                        "title": "Notícias",
+                        "link": "https://site.cruzeiro.com.br/noticias"
+                    }
+                ]
+            },
+            "source": "Cruzeiro Esporte Clube"
+        },
+        {
+            "position": 3,
+            "title": "Cruzeiro Esporte Clube – Wikipédia, a enciclopédia livre",
+            "link": "https://pt.wikipedia.org/wiki/Cruzeiro_Esporte_Clube",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://pt.wikipedia.org/wiki/Cruzeiro_Esporte_Clube&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QFnoECGIQAQ",
+            "displayed_link": "https://pt.wikipedia.org › wiki › Cruzeiro_Esporte_Clube",
+            "thumbnail": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/b8195c5de1f3b5fd66e7e025b00f64da39e503524180a7ced352d7a29ac0cc15.png",
+            "favicon": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/b8195c5de1f3b5fd66e7e025b00f64da78e2c07e70a4cff14f1d815fb08fbe6f.png",
+            "snippet": "O Cruzeiro Esporte Clube, mais conhecido como Cruzeiro, é uma associação polidesportiva brasileira sediada em Belo Horizonte, Minas Gerais.",
+            "snippet_highlighted_words": [
+                "Cruzeiro Esporte Clube"
+            ],
+            "source": "Wikipedia"
+        },
+        {
+            "position": 4,
+            "title": "Cruzeiro Esporte Clube",
+            "link": "https://en.wikipedia.org/wiki/Cruzeiro_Esporte_Clube",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Cruzeiro_Esporte_Clube&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QFnoECGMQAQ",
+            "displayed_link": "https://en.wikipedia.org › wiki",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejlNGRZzUaF9QSdWy_MgPklSqbtXrG1kwvg5fbt6MgoJ_ViXfrG2H&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/b8195c5de1f3b5fd66e7e025b00f64daba6c5ed20a2fa09af414169c5184a29a.png",
+            "snippet": "Cruzeiro is one of Brazil's most successful clubs. It won the Campeonato Brasileiro Série A for the first time in 1966, after defeating Santos' Os Santásticos ...",
+            "snippet_highlighted_words": [
+                "Cruzeiro"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "History",
+                        "link": "https://en.wikipedia.org/wiki/Cruzeiro_Esporte_Clube#History"
+                    },
+                    {
+                        "title": "Symbols",
+                        "link": "https://en.wikipedia.org/wiki/Cruzeiro_Esporte_Clube#Symbols"
+                    },
+                    {
+                        "title": "Current squad",
+                        "link": "https://en.wikipedia.org/wiki/Cruzeiro_Esporte_Clube#Current_squad"
+                    },
+                    {
+                        "title": "Former coaches",
+                        "link": "https://en.wikipedia.org/wiki/Cruzeiro_Esporte_Clube#Former_coaches"
+                    }
+                ]
+            },
+            "source": "Wikipedia"
+        },
+        {
+            "position": 5,
+            "title": "Cruzeiro (@cruzeiro) • Instagram photos and videos",
+            "link": "https://www.instagram.com/cruzeiro/",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/cruzeiro/&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QFnoECF4QAQ",
+            "displayed_link": "https://www.instagram.com › cruzeiro",
+            "favicon": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/b8195c5de1f3b5fd66e7e025b00f64da1363928b2bcea354ad0a625afbc53235.png",
+            "snippet": "Perfil oficial do Cruzeiro Esporte Clube Tetracampeão Brasileiro Hexacampeão da Copa do Brasil ⭐️ Bicampeão da Libertadores ... Falar ajuda a quebrar tabus ...",
+            "snippet_highlighted_words": [
+                "Cruzeiro Esporte Clube"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Cruzeiro",
+                        "link": "https://www.instagram.com/cruzeiro/reel/C6hNgrUpqc9/"
+                    },
+                    {
+                        "title": "Instagram profile",
+                        "link": "https://www.instagram.com/cruzeiro/channel/"
+                    },
+                    {
+                        "title": "Προβολή όλων",
+                        "link": "https://www.instagram.com/cruzeiro/related_profiles/"
+                    },
+                    {
+                        "title": "Reels",
+                        "link": "https://www.instagram.com/cruzeiro/reels/"
+                    }
+                ]
+            },
+            "source": "Instagram"
+        },
+        {
+            "position": 6,
+            "title": "Cruzeiro Esporte Clube - FutFanatics",
+            "link": "https://www.futfanatics.net/brazilian-teams/minas-gerais/cruzeiro",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.futfanatics.net/brazilian-teams/minas-gerais/cruzeiro&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QFnoECGAQAQ",
+            "displayed_link": "https://www.futfanatics.net › cruz...",
+            "favicon": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/b8195c5de1f3b5fd66e7e025b00f64daa359d5275a362d6fde39d1defc68a560.png",
+            "snippet": "Shop all Soccer Gear of Cruzeiro Esporte Clube Available at FutFanatics Web Store. Delivery World-Wide Shipping With Order Tracking and PayPal ...",
+            "snippet_highlighted_words": [
+                "Cruzeiro Esporte Clube"
+            ],
+            "source": "futfanatics.net"
+        },
+        {
+            "position": 7,
+            "title": "Cruzeiro Esporte Clube",
+            "link": "https://www.facebook.com/cruzeirooficial/?locale=pt_BR",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/cruzeirooficial/%3Flocale%3Dpt_BR&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QFnoECFwQAQ",
+            "displayed_link": "https://www.facebook.com › ... › Cruzeiro Esporte Clube",
+            "favicon": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/b8195c5de1f3b5fd66e7e025b00f64da84bbf6901b918f71513f1ae857a05380.png",
+            "snippet": "Amanhã é dia de decisão dos #CriasDaToca no Brasileirão Sub-20! 🗓️ 12.09.2024 Brasileiro Sub-20 Fortaleza 16h30🏟️ Arena Independência Sportv ingresso.",
+            "source": "Facebook"
+        },
+        {
+            "position": 8,
+            "title": "Cruzeiro Esporte Clube",
+            "link": "https://www.youtube.com/channel/UCqifkpdmE1z3VhfQoJzwpJQ",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/channel/UCqifkpdmE1z3VhfQoJzwpJQ&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QFnoECF8QAQ",
+            "displayed_link": "https://www.youtube.com › channel",
+            "favicon": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/b8195c5de1f3b5fd66e7e025b00f64da42b6d3b8c62ea7f82afe52a3d90a6cf5.png",
+            "snippet": "TREINOS | TRAINING · Acompanhe todos os bastidores e o dia-a-dia dos nossos treinos! · ⚽ DIA NA TOCA | Time segue a preparação para o jogo contra o São Paulo!",
+            "source": "YouTube"
+        },
+        {
+            "position": 9,
+            "title": "Cruzeiro Esporte Clube - Club profile",
+            "link": "https://www.transfermarkt.com/cruzeiro-esporte-clube/startseite/verein/609",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.transfermarkt.com/cruzeiro-esporte-clube/startseite/verein/609&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4QFnoFCIABEAE",
+            "displayed_link": "https://www.transfermarkt.com › ...",
+            "favicon": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/b8195c5de1f3b5fd66e7e025b00f64dafafb86935f889db15269f8b01c186667.jpeg",
+            "snippet": "All information about Cruzeiro (Série A) ➤ current squad with market values ➤ transfers ➤ rumours ➤ player stats ➤ fixtures ➤ news.",
+            "snippet_highlighted_words": [
+                "Cruzeiro"
+            ],
+            "source": "Transfermarkt"
+        }
+    ],
+    "places_sites": [
+        {
+            "position": 1
+        },
+        {
+            "position": 2
+        },
+        {
+            "position": 3
+        },
+        {
+            "position": 4
+        },
+        {
+            "position": 5
+        },
+        {
+            "position": 6
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Cruzeiro renova com lateral campeão ao lado de Endrick na seleção brasileira sub-17",
+            "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2024/09/13/cruzeiro-renova-com-lateral-campeao-ao-lado-de-endrick-na-selecao-brasileira-sub-17.ghtml",
+            "source": "ge",
+            "date": "há 3 horas",
+            "thumbnail": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/3dd506124da72a9ae6033bfc5dab2bbc95861dad83e0771a.jpeg"
+        },
+        {
+            "title": "Cruzeiro inicia vendas de ingressos para estreia no Campeonato Mineiro Feminino contra o Itabirito",
+            "link": "https://www.diarioceleste.com.br/noticias-do-cruzeiro/cruzeiro-ingressos-estreia-mineiro-feminino-itabirito/",
+            "source": "Diário Celeste",
+            "date": "2 dias atrás",
+            "thumbnail": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/3dd506124da72a9af790211278fa74f069b4cfef22c040c2.jpeg"
+        },
+        {
+            "title": "Cruzeiro 3 x 0 Fortaleza | Campeonato Brasileiro sub-20: melhores momentos",
+            "link": "https://ge.globo.com/mg/triangulo-mineiro/futebol/jogo/12-09-2024/cruzeiro-fortaleza.ghtml",
+            "source": "GE",
+            "date": "há 20 horas",
+            "thumbnail": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/3dd506124da72a9a83e38c46a6d7eeb77c1680c1da3c8900.jpeg"
+        },
+        {
+            "title": "Cruzeiro sacramenta saída de Ruan Santos para clube dos Emirados Árabes",
+            "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2024/09/12/cruzeiro-sacramenta-saida-de-ruan-santos-para-clube-dos-emirados-arabes.ghtml",
+            "source": "GE",
+            "date": "1 dia atrás",
+            "thumbnail": "https://serpapi.com/searches/66e476ddd771bddade2343b7/images/3dd506124da72a9a6be9c7e54e57bab0dd6d5d3d6af257ab.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Cruzeiro+Esporte+Clube&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Qt8YBKAB6BAg3EAE",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&tbm=nws",
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Notícias do Cruzeiro hoje",
+            "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Not%C3%ADcias+do+Cruzeiro+hoje&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q1QJ6BQiNARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Not%C3%ADcias+do+Cruzeiro+hoje"
+        },
+        {
+            "block_position": 1,
+            "query": "Jogo do Cruzeiro hoje ao vivo",
+            "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Jogo+do+Cruzeiro+hoje+ao+vivo&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q1QJ6BQiOARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Jogo+do+Cruzeiro+hoje+ao+vivo"
+        },
+        {
+            "block_position": 1,
+            "query": "Globo Esporte - Cruzeiro",
+            "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Globo+Esporte+-+Cruzeiro&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q1QJ6BQiPARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Globo+Esporte+-+Cruzeiro"
+        },
+        {
+            "block_position": 1,
+            "query": "Ingresso Cruzeiro x Atlético",
+            "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Ingresso+Cruzeiro+x+Atl%C3%A9tico&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q1QJ6BQiIARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Ingresso+Cruzeiro+x+Atl%C3%A9tico"
+        },
+        {
+            "block_position": 1,
+            "query": "Jogos de Cruzeiro Esporte Clube",
+            "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Jogos+de+Cruzeiro+Esporte+Clube&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q1QJ6BQiJARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Jogos+de+Cruzeiro+Esporte+Clube"
+        },
+        {
+            "block_position": 1,
+            "query": "Cruzeiro Esporte clube tem Mundial",
+            "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Cruzeiro+Esporte+clube+tem+Mundial&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q1QJ6BQiLARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+clube+tem+Mundial"
+        },
+        {
+            "block_position": 1,
+            "query": "Jogadores de Cruzeiro Esporte clube",
+            "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Jogadores+de+Cruzeiro+Esporte+clube&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q1QJ6BQiKARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Jogadores+de+Cruzeiro+Esporte+clube"
+        },
+        {
+            "block_position": 1,
+            "query": "Valor do ingresso do jogo do Cruzeiro domingo",
+            "link": "https://www.google.com.br/search?sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&q=Valor+do+ingresso+do+jogo+do+Cruzeiro+domingo&sa=X&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q1QJ6BQiMARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Valor+do+ingresso+do+jogo+do+Cruzeiro+domingo"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&ei=3nbkZovVEPiWwbkPxOyD8Qc&start=10&sa=N&sstk=AagrsujyleCnn2nFz-UWrE1JIXZQBik7dGqdFMq3BcIwiJeO2CGpi0274GGNQ6-86vi8Kf6Y-3C3rc1LjJDaQgLSHuP2i5tQGmKjgA&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q8NMDegQICBAW",
+        "other_pages": {
+            "2": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&ei=3nbkZovVEPiWwbkPxOyD8Qc&start=10&sa=N&sstk=AagrsujyleCnn2nFz-UWrE1JIXZQBik7dGqdFMq3BcIwiJeO2CGpi0274GGNQ6-86vi8Kf6Y-3C3rc1LjJDaQgLSHuP2i5tQGmKjgA&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q8tMDegQICBAE",
+            "3": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&ei=3nbkZovVEPiWwbkPxOyD8Qc&start=20&sa=N&sstk=AagrsujyleCnn2nFz-UWrE1JIXZQBik7dGqdFMq3BcIwiJeO2CGpi0274GGNQ6-86vi8Kf6Y-3C3rc1LjJDaQgLSHuP2i5tQGmKjgA&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q8tMDegQICBAG",
+            "4": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&ei=3nbkZovVEPiWwbkPxOyD8Qc&start=30&sa=N&sstk=AagrsujyleCnn2nFz-UWrE1JIXZQBik7dGqdFMq3BcIwiJeO2CGpi0274GGNQ6-86vi8Kf6Y-3C3rc1LjJDaQgLSHuP2i5tQGmKjgA&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q8tMDegQICBAI",
+            "5": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&ei=3nbkZovVEPiWwbkPxOyD8Qc&start=40&sa=N&sstk=AagrsujyleCnn2nFz-UWrE1JIXZQBik7dGqdFMq3BcIwiJeO2CGpi0274GGNQ6-86vi8Kf6Y-3C3rc1LjJDaQgLSHuP2i5tQGmKjgA&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q8tMDegQICBAK",
+            "6": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&ei=3nbkZovVEPiWwbkPxOyD8Qc&start=50&sa=N&sstk=AagrsujyleCnn2nFz-UWrE1JIXZQBik7dGqdFMq3BcIwiJeO2CGpi0274GGNQ6-86vi8Kf6Y-3C3rc1LjJDaQgLSHuP2i5tQGmKjgA&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q8tMDegQICBAM",
+            "7": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&ei=3nbkZovVEPiWwbkPxOyD8Qc&start=60&sa=N&sstk=AagrsujyleCnn2nFz-UWrE1JIXZQBik7dGqdFMq3BcIwiJeO2CGpi0274GGNQ6-86vi8Kf6Y-3C3rc1LjJDaQgLSHuP2i5tQGmKjgA&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q8tMDegQICBAO",
+            "8": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&ei=3nbkZovVEPiWwbkPxOyD8Qc&start=70&sa=N&sstk=AagrsujyleCnn2nFz-UWrE1JIXZQBik7dGqdFMq3BcIwiJeO2CGpi0274GGNQ6-86vi8Kf6Y-3C3rc1LjJDaQgLSHuP2i5tQGmKjgA&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q8tMDegQICBAQ",
+            "9": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&ei=3nbkZovVEPiWwbkPxOyD8Qc&start=80&sa=N&sstk=AagrsujyleCnn2nFz-UWrE1JIXZQBik7dGqdFMq3BcIwiJeO2CGpi0274GGNQ6-86vi8Kf6Y-3C3rc1LjJDaQgLSHuP2i5tQGmKjgA&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q8tMDegQICBAS",
+            "10": "https://www.google.com.br/search?q=Cruzeiro+Esporte+Clube&sca_esv=806d9f5f2f997acf&sca_upv=1&hl=pt&ei=3nbkZovVEPiWwbkPxOyD8Qc&start=90&sa=N&sstk=AagrsujyleCnn2nFz-UWrE1JIXZQBik7dGqdFMq3BcIwiJeO2CGpi0274GGNQ6-86vi8Kf6Y-3C3rc1LjJDaQgLSHuP2i5tQGmKjgA&ved=2ahUKEwiLvKS2ucCIAxV4SzABHUT2IH4Q8tMDegQICBAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com.br&hl=pt&location=Brazil&q=Cruzeiro+Esporte+Clube&start=90"
+        }
+    }
+}
